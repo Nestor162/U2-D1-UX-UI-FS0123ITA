@@ -241,7 +241,7 @@ footer a {
   section {
     width: 50%;
     display: inline-block;
-    margin-bottom: initial;
+    margin-bottom: unset;
     margin-right: -4px;
     vertical-align: middle;
   }
