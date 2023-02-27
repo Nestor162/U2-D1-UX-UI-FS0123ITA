@@ -236,6 +236,22 @@ footer a {
   table tr {
     width: 100%;
   }
+
+  iframe,
+  section {
+    width: 50%;
+    display: inline-block;
+    margin-bottom: initial;
+  }
+
+  section {
+    width: 49%;
+    border-radius: 20px;
+  }
+
+  iframe {
+    margin-block: -12px;
+  }
 }
 
 /* Medium Version */
