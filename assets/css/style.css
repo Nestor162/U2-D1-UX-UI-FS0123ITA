@@ -37,7 +37,7 @@ header div img {
   margin-bottom: 20px;
 }
 header nav ul {
-  margin: 0;
+  margin-bottom: 0;
 }
 header nav li {
   list-style: none;
@@ -227,6 +227,10 @@ footer a {
   header li {
     display: inline-block;
     margin: unset;
+  }
+
+  nav ul {
+    margin-right: 25px;
   }
 
   table {
