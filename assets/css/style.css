@@ -281,4 +281,15 @@ footer a {
     margin: 0 auto;
     margin-block: 75px;
   }
-} ;
+}
+
+/* Print Version */
+@media print {
+  header,
+  iframe,
+  aside,
+  section,
+  footer {
+    display: none;
+  }
+}
