@@ -243,15 +243,12 @@ footer a {
     display: inline-block;
     margin-bottom: initial;
     margin-right: -4px;
+    vertical-align: middle;
   }
 
   section {
     width: 49%;
     border-radius: 20px;
-  }
-
-  iframe {
-    margin-block: -12px;
   }
 
   aside div {
