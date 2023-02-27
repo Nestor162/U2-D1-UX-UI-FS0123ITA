@@ -203,6 +203,9 @@ footer a {
 
 /* Desktop Version */
 @media screen and (min-width: 1200px) {
+  body {
+    padding-inline: 90px;
+  }
   header {
     text-align: unset;
     display: flex;
