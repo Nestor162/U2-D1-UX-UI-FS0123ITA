@@ -264,6 +264,10 @@ footer a {
     width: 100%;
     margin-inline: auto;
   }
+
+  aside h2 {
+    margin-block: 2.5rem;
+  }
 }
 
 /* Medium Version */
