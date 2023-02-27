@@ -242,6 +242,7 @@ footer a {
     width: 50%;
     display: inline-block;
     margin-bottom: initial;
+    margin-right: -4px;
   }
 
   section {
@@ -251,6 +252,17 @@ footer a {
 
   iframe {
     margin-block: -12px;
+  }
+
+  aside div {
+    display: inline-block;
+    width: 33%;
+    margin-right: -4px;
+  }
+
+  aside {
+    width: 100%;
+    margin-inline: auto;
   }
 }
 
